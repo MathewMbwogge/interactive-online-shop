@@ -104,9 +104,9 @@ const ContactDetails = () => {
         <TextTwo>Fill up the form and our team will get back to you within 24 hours</TextTwo>
       </TextWrapper>
       <div>
-        <ContactsWrapper href="tel:+447480181739">
+        <ContactsWrapper href="tel:+447405900707">
           <Icon.Phone size={15} color="rgb(252, 113, 137)" />
-          <ContactText>+447480181739</ContactText>
+          <ContactText>+447405900707</ContactText>
         </ContactsWrapper>
 
         <ContactsWrapper href="mailto:m.mbwoge@gmail.com">
